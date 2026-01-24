@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
