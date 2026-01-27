@@ -26,8 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
