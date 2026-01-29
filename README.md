@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
