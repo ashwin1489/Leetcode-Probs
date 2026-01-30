@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
