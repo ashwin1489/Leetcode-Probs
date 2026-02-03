@@ -31,41 +31,38 @@ class Solution {
 
         
 }
+/*
+Time Complexity
 
-// class Solution {
+We expand for every index.
 
-//     public String longestPalindrome(String s) {
+Worst case: "aaaaaa"
 
-//         if (s == null || s.length() < 1) return "";
+O(n) expand × n centers = O(n²)
 
-//         int start = 0;
-//         int end = 0;
+TC = O(n²)
+💾 8️⃣ Space Complexity
 
-//         for (int i = 0; i < s.length(); i++) {
+Only variables.
 
-//             int len1 = expandFromCenter(s, i, i);
-//             int len2 = expandFromCenter(s, i, i + 1);
+SC = O(1)
 
-//             int len = Math.max(len1, len2);
 
-//             if (len > end - start) {
-//                 start = i - (len - 1) / 2;
-//                 end = i + len / 2;
-//             }
-//         }
 
-//         return s.substring(start, end + 1);
-//     }
+Intuition
 
-//     private int expandFromCenter(String s, int left, int right) {
+Every palindrome expands from a center.
 
-//         while (left >= 0 && right < s.length()
-//                 && s.charAt(left) == s.charAt(right)) {
+🔹 Logic
 
-//             left--;
-//             right++;
-//         }
+For each index:
 
-//         return right - left - 1;
-//     }
-// }
+Check odd & even center
+
+Expand while match
+
+Track max length
+
+I expand from every possible center to find the longest palindrome.”
+
+*/
