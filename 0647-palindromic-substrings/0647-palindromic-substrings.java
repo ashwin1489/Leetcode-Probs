@@ -18,3 +18,35 @@ class Solution {
         return count;
     }
 }
+
+
+/*
+Intuition
+
+Every palindrome grows from a center.
+
+🔹 Logic
+
+For each index:
+
+Expand odd
+
+Expand even
+
+Count matches
+
+🔹 One-Line
+
+Expand from all centers and count.
+
+🔹 TC / SC
+
+TC = O(n²)
+SC = O(1)
+
+🔹 Interview Line
+
+“I expand around each center and count palindromes
+
+
+*/
