@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ashwin1489/Leetcode-Probs/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ashwin1489/Leetcode-Probs/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0424-longest-repeating-character-replacement) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ashwin1489/Leetcode-Probs/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
