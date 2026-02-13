@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1392-longest-happy-prefix](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1392-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0044-wildcard-matching) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
