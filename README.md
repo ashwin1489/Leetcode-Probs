@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0242-valid-anagram) |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1392-longest-happy-prefix) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
