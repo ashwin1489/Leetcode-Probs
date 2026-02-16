@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
