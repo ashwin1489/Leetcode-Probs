@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0044-wildcard-matching) |
 ## Rolling Hash
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0142-linked-list-cycle-ii) |
