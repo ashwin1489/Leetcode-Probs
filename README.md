@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Trie
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0234-palindrome-linked-list) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0876-middle-of-the-linked-list) |
