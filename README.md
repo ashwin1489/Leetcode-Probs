@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ashwin1489/Leetcode-Probs/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -158,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ashwin1489/Leetcode-Probs/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
